@@ -6,6 +6,9 @@
 trigger:
 - '*'
 
+pool:
+- name: windows-latest
+
 variables:
   system.debug: true
 
