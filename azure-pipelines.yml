@@ -12,6 +12,7 @@ pool:
 variables:
   system.debug: true
 
+steps:
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
