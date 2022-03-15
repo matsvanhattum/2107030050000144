@@ -1,8 +1,6 @@
-Some test in develop/1
+Creating test in develop/1
 - making even more edits, and more 
 
 To:
-- Make a commit to branch1 with [skip ci].
-- Make a commit in branch 2 without skipping.
-- Merge branch1 into main
-- Merge main in to branch2 
+- Make a commit to develop/1 with [skip ci].
+- Merge develop/1 into main without [skip ci] in the PR comment
