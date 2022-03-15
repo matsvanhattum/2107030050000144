@@ -4,3 +4,5 @@ Creating test in develop/1
 To:
 - Make a commit to develop/1 with [skip ci].
 - Merge develop/1 into main without [skip ci] in the PR comment
+
+Double checking the behaviour
