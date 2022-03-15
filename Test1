@@ -1,2 +1,8 @@
 Some test in branch 1
-- making even more edits
+- making even more edits, and more
+
+To:
+- Make a commit to branch1 with [skip ci].
+- Make a commit in branch 2 without skipping.
+- Merge branch1
+- Merge branch2 
