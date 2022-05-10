@@ -1,8 +1,3 @@
-Creating test in develop/1
-- making some edits for the new commmit
-
-To:
-- Make a commit to develop/1 with [skip ci].
-- Merge develop/1 into main without [skip ci] in the PR comment
-
-Double checking the behaviour
+My first change to the file 'Test1'.
+Committing to a new branch 'TestBranch1'.
+Making the 'skip ci' comment.
